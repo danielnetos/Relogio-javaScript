@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+
+    background: linear-gradient(90deg, #a6dc41, rgb(37, 36, 36)) no-repeat;
+    text-align: center;
+}
+
+.div-corpo{
+
+    background-color: rgb(66, 65, 65);
+    color: #a6dc41;
+    margin: 200px auto;
+    width: 400px;
+    padding: 20px;
+    box-shadow: 1px 3px 8px rgb(34, 33, 33);
+    border-radius: 7px;
+    
+}
+
+div#relogio{
+    color: white;
+    font-size: 50px;
+    border: solid #a6dc41 2px;
+    border-radius: 5px;
+    margin: auto;
+    width: 250px;
+
+
+
+
+}
